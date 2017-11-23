@@ -19,7 +19,7 @@ Wir akzeptieren weltweite Einreichungen.
 
 ### Veränderung der Erwerbsgesellschaft: Automatisierung 4.0
 
-Die Veränderung der Erwerbsgesellschaft durch KI-basierte Automatisierung ist absehbar. Wenn eine Million Fernfahrer in Deutschland durch autonomes Fahren arbeitslos werden, können sie nicht „einfach“ einer anderen Tätigkeit nachgehen. Falls KI die Rückkehr der Massenarbeitslosigkeit, wird dies zu einem extremen sozialen Ungleichgewicht führen.
+Die Veränderung der Erwerbsgesellschaft durch KI-basierte Automatisierung ist absehbar. Wenn eine Million Fernfahrer in Deutschland durch autonomes Fahren arbeitslos werden, können sie nicht „einfach“ einer anderen Tätigkeit nachgehen. Falls KI die Rückkehr der Massenarbeitslosigkeit auslöst, wird dies zu einem extremen sozialen Ungleichgewicht führen.
 
 > Eine Studie der Universität Oxford kommt zu dem Schluss, dass bis 2030 rund 47 Prozent aller Arbeitsplätze in den USA der Automatisierung zum Opfer fallen könnten. [...] Laut einer Studie von Volkswirten der ING-Diba-Bank sind 59 Prozent aller Arbeitsplätze gefährdet; von den rund 31 Millionen sozialversicherungspflichtigen und geringfügigen Beschäftigten hierzulande könnten 18 Millionen von Robotern und Software ersetzt werden. [(Die Zeit, 2016)](http://www.zeit.de/karriere/beruf/2016-01/zukunft-arbeit-arbeitsmarkt/seite-2)
 
